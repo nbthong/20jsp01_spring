@@ -8,7 +8,7 @@
 <title>Administration</title>
 </head>
 <body>
-
+<a href="${pageContext.request.contextPath}/logout">Logout</a>
 <h1>ADMINSTRATION</h1>
 
 	<table border="1">

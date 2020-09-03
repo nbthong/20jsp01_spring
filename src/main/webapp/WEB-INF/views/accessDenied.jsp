@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Homepage</title>
+<title>Login</title>
 </head>
 <body>
-<a href="${pageContext.request.contextPath}/logout">Logout</a>
-<h1>WELCOME TO MY SPRING WEB</h1>
+<h1 style="color: red;">ACCESS DENIED</h1>
 </body>
 </html>

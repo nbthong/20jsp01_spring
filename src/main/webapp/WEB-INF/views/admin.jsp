@@ -4,10 +4,14 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Homepage</title>
+<title>admin</title>
 </head>
 <body>
 <a href="${pageContext.request.contextPath}/logout">Logout</a>
-<h1>WELCOME TO MY SPRING WEB</h1>
+
+
+<h1>ADMIN PAGE</h1>
+
+
 </body>
 </html>
